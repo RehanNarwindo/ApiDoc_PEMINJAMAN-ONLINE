@@ -1,5 +1,6 @@
 API Spec: Fitur Peminjaman Uang
 
+# FITUR LOANS
 
 Base URL:
 `https://api.example.com/v1/loans`
